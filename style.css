@@ -136,7 +136,7 @@ p {
   position: absolute;
   top: 30%; /* Start higher on the screen */
   left: -200px; /* Initial position off-screen */
-  opacity: 0.8;
+  opacity: 1;
   animation: cloud 10s linear 0s infinite; /* Animation moves left to right */
   z-index: 99;
 }
